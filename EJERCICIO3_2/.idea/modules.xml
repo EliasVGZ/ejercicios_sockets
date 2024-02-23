@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EJERCICIO3_2/Actividad3_2Cliente/Actividad3_2Cliente.iml" filepath="$PROJECT_DIR$/EJERCICIO3_2/Actividad3_2Cliente/Actividad3_2Cliente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EJERCICIO3_2/Actividad3_2Servidor/Actividad3_2Servidor.iml" filepath="$PROJECT_DIR$/EJERCICIO3_2/Actividad3_2Servidor/Actividad3_2Servidor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/EJERCICIO3_2.iml" filepath="$PROJECT_DIR$/.idea/EJERCICIO3_2.iml" />
+    </modules>
+  </component>
+</project>
