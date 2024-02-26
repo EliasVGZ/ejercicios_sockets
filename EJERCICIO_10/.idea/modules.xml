@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Actividad3_10Cliente/Actividad3_10Cliente.iml" filepath="$PROJECT_DIR$/Actividad3_10Cliente/Actividad3_10Cliente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Actividad3_10Servidor/Actividad3_10Servidor.iml" filepath="$PROJECT_DIR$/Actividad3_10Servidor/Actividad3_10Servidor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ENUNCIADO Y SOLUCIÓN ACTIVIDAD3_10. EJERCICIO ADIVINA UN NÚMERO-20240226.iml" filepath="$PROJECT_DIR$/.idea/ENUNCIADO Y SOLUCIÓN ACTIVIDAD3_10. EJERCICIO ADIVINA UN NÚMERO-20240226.iml" />
+    </modules>
+  </component>
+</project>
