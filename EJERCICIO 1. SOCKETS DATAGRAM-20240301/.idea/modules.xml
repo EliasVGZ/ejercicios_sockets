@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/EJERCICIO 1. SOCKETS DATAGRAM-20240301.iml" filepath="$PROJECT_DIR$/.idea/EJERCICIO 1. SOCKETS DATAGRAM-20240301.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UDPenvioDatagrama/UDPenvioDatagrama.iml" filepath="$PROJECT_DIR$/UDPenvioDatagrama/UDPenvioDatagrama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UDPreciboDatagrama/UDPreciboDatagrama.iml" filepath="$PROJECT_DIR$/UDPreciboDatagrama/UDPreciboDatagrama.iml" />
+    </modules>
+  </component>
+</project>
